@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/Rosalia%20Ley%20-%20Social%20proof%20section%20copy.png)
+![](images/Rosalia%20Ley%20-%20Social%20proof%20section.png)
 
 ### Links
 
